@@ -6,6 +6,8 @@ We'll use  `fetch()` and describe the problems that it helps solve.
 
 ## Objectives
 
+
+
 1. Explain how to use `fetch()` in modern browsers
 2. Describe the differences between `fetch()`, `jquery.ajax()` and `XMLHttpRequest`
 3. Get data from a remote endpoint using `fetch()`
